@@ -1,4 +1,4 @@
-baseURL = 'adhddevops.com'
+baseURL = 'www.adhddevops.com'
 languageCode = 'en-us'
 title = 'ADHD DevOps'
 theme = "hugo-coder"
