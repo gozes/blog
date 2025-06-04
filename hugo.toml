@@ -60,6 +60,6 @@ name = "Blog"
 weight = 2
 url = "posts/"
 
-caches:
-  images:
-    dir: :cacheDir/images
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
