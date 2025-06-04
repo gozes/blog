@@ -43,7 +43,7 @@ url = "www.linkedin.com/in/juan-alberto-s-93490925"
 name = "RSS"
 icon = "fa-solid fa-rss fa-2x"
 weight = 5
-url = "https://adhddevops.com/index.xml"
+url = "https://www.adhddevops.com/index.xml"
 rel = "alternate"
 type = "application/rss+xml"
 
