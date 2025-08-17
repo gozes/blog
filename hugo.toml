@@ -1,6 +1,6 @@
-baseURL = 'https://www.adhddevops.com'
+baseURL = 'https://www.gozes.dev'
 languageCode = 'en-us'
-title = 'ADHD DevOps'
+title = 'gozes.dev'
 theme = "hugo-coder"
 defaultContentLanguage = "en"
 enableEmoji = true
@@ -43,7 +43,7 @@ url = "www.linkedin.com/in/juan-alberto-s-93490925"
 name = "RSS"
 icon = "fa-solid fa-rss fa-2x"
 weight = 5
-url = "https://www.adhddevops.com/index.xml"
+url = "https://www.gozes.dev/index.xml"
 rel = "alternate"
 type = "application/rss+xml"
 
