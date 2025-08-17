@@ -21,28 +21,34 @@ weight = 1
 url = "https://github.com/gozes/"
 
 [[params.social]]
+name = "Mail"
+icon = "fa-solid fa-at fa-2x"
+weight = 2
+url = "mailto:me@gazes.dev"
+
+[[params.social]]
 name = "Mastodon"
 icon = "fa-brands fa-mastodon fa-2x"
-weight = 2
+weight = 3
 url = "https://hachyderm.io/@gozes"
 
 [[params.social]]
 name = "BlueSky"
 icon = "fa-brands fa-bluesky fa-2x"
-weight = 3
+weight = 4
 url = "https://bsky.app/profile/gozes.dev"
 
 [[params.social]]
 name = "LinkedIn"
 icon = "fa-brands fa-linkedin fa-2x"
-weight = 4
+weight = 5
 url = "www.linkedin.com/in/juan-alberto-s-93490925"
 
 
 [[params.social]]
 name = "RSS"
 icon = "fa-solid fa-rss fa-2x"
-weight = 5
+weight = 6
 url = "https://www.gozes.dev/index.xml"
 rel = "alternate"
 type = "application/rss+xml"
