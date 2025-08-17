@@ -16,7 +16,7 @@ I'm always open to a good chat! If anything I've written resonates with you, if 
 
 You can find me here:
 
-*   [**Email**](mailto:gozes@adhddevops.com)
+*   [**Email**](mailto:me@gazes.dev)
 *   [**Mastodon**](https://hachyderm.io/@gozes)
 *   [**Bluesky**](https://bsky.app/profile/gozes.dev)
 *   [**LinkedIn**](https://www.linkedin.com/in/juan-alberto-s-93490925)

@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>https://www.gozes.dev/about/</loc>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>https://www.gozes.dev/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>https://www.gozes.dev/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>https://www.gozes.dev/tags/</loc>
   </url>
 </urlset>
