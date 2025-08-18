@@ -10,7 +10,7 @@ style = "vim"
 
 [params]
 author = "gozes"
-infor = " Hi — I’m Juan (he/him). I build backend systems in Go, tinker with Linux and self‑hosting, and write about what I’m learning, the things I’m exploring, and my thoughts and ideas about software and living with ADHD. Based in London with my wife, Edith, and our daughter, Kai. Say hi: [me@gozes.dev](mailto:me@gazes.dev)."
+info = "Hi — I’m Juan (he/him). I build backend systems in Go, tinker with Linux and self‑hosting, and write about what I’m learning, the things I’m exploring, and my thoughts and ideas about software and living with ADHD. Based in London with my wife, Edith, and our daughter, Kai. Say hi: [me@gozes.dev](mailto:me@gazes.dev)."
 keywords = "blog,developer,personal,ADHD"
 #info = ["Software Engineer", "Linux", "Golang","Cloud-Native", "Anime Fan", "Self-Hosting"]
 dateFormat = "2023/10/14"
