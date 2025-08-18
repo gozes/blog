@@ -10,6 +10,7 @@ style = "vim"
 
 [params]
 author = "gozes"
+infor = " Hi — I’m Juan (he/him). I build backend systems in Go, tinker with Linux and self‑hosting, and write about what I’m learning, the things I’m exploring, and my thoughts and ideas about software and living with ADHD. Based in London with my wife, Edith, and our daughter, Kai. Say hi: [me@gozes.dev](mailto:me@gazes.dev)."
 keywords = "blog,developer,personal,ADHD"
 #info = ["Software Engineer", "Linux", "Golang","Cloud-Native", "Anime Fan", "Self-Hosting"]
 dateFormat = "2023/10/14"
@@ -57,14 +58,14 @@ type = "application/rss+xml"
 languageName = ":uk:"
 
 [[languages.en.menu.main]]
-name = "About"
+name = "Blog"
 weight = 1
-url = "about/"
+url = "posts/"
 
 [[languages.en.menu.main]]
-name = "Blog"
+name = "Manual Of Me"
 weight = 2
-url = "posts/"
+url = "manual/"
 
 [caches]
   [caches.images]

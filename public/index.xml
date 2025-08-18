@@ -9,10 +9,10 @@
     <atom:link href="https://www.gozes.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://www.gozes.dev/about/</link>
+      <link>https://www.gozes.dev/manual/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.gozes.dev/about/</guid>
-      <description>&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;&#xA;&lt;p&gt;Hey, I&amp;rsquo;m Juan, but you can call me Gozes! Welcome to my little corner of the internet. I&amp;rsquo;m a software engineer with over six years of experience, primarily diving deep into the world of cloud computing and building robust, event-driven systems. My journey has also led me through the fascinating realm of data engineering, where I&amp;rsquo;ve wrangled big data using tools like DBT, SQL, and Spark. Day-to-day, you&amp;rsquo;ll find me working with Go, Python, SQL, Docker, and Kubernetes – technologies I&amp;rsquo;ve grown to love (most of the time!).&lt;/p&gt;</description>
+      <guid>https://www.gozes.dev/manual/</guid>
+      <description>&lt;h1 id=&#34;hello-im-juan-&#34;&gt;Hello, I&amp;rsquo;m Juan 👋&lt;/h1&gt;&#xA;&lt;p&gt;You&amp;rsquo;re here because you&amp;rsquo;re my colleague and want to know how we can best work together.&lt;/p&gt;&#xA;&lt;p&gt;This site is inspired by &lt;a href=&#34;https://www.manualof.me&#34;&gt;Manual of Me&lt;/a&gt;, and aims to be a guide for colleagues in how to best work with me.&lt;/p&gt;&#xA;&lt;h2 id=&#34;my-working-hours&#34;&gt;My Working Hours&lt;/h2&gt;&#xA;&lt;p&gt;Working in a Remote role, I like and enjoy the flexibility of not always being immediately available for response.&#xA;That said you will very likely find me online between the following hours.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
