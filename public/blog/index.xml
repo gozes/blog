@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>gozes.dev</title>
-    <link>https://www.gozes.dev/</link>
-    <description>Recent content on gozes.dev</description>
+    <title>Blogs on gozes.dev</title>
+    <link>https://www.gozes.dev/blog/</link>
+    <description>Recent content in Blogs on gozes.dev</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 25 Aug 2025 12:01:33 +0100</lastBuildDate>
-    <atom:link href="https://www.gozes.dev/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.gozes.dev/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Debugging Services by Isolating Them With Systemd</title>
       <link>https://www.gozes.dev/blog/debugging-services-by-isolating-them-with-systemd/</link>
       <pubDate>Mon, 25 Aug 2025 12:01:33 +0100</pubDate>
       <guid>https://www.gozes.dev/blog/debugging-services-by-isolating-them-with-systemd/</guid>
       <description>&lt;h1 id=&#34;debugging-services-by-isolating-them-with-systemd&#34;&gt;Debugging Services by Isolating Them with systemd&lt;/h1&gt;&#xA;&lt;p&gt;A few days ago, I was trying to track down a bug in a service that was causing it to misbehave and occasionally crash. Despite having good test coverage and attaching a debugger, I was struggling to reproduce the issue reliably. After some thought, it occurred to me to try running the service in a container with systemd and progressively removing privileges to see if I could trigger the bug.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://www.gozes.dev/manual/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.gozes.dev/manual/</guid>
-      <description>&lt;h1 id=&#34;hello-im-juan-&#34;&gt;Hello, I&amp;rsquo;m Juan 👋&lt;/h1&gt;&#xA;&lt;p&gt;You&amp;rsquo;re here because you&amp;rsquo;re my colleague and want to know how we can best work together.&lt;/p&gt;&#xA;&lt;p&gt;This site is inspired by &lt;a href=&#34;https://www.manualof.me&#34;&gt;Manual of Me&lt;/a&gt;, and aims to be a guide for colleagues in how to best work with me.&lt;/p&gt;&#xA;&lt;h2 id=&#34;my-working-hours&#34;&gt;My Working Hours&lt;/h2&gt;&#xA;&lt;p&gt;Working in a Remote role, I like and enjoy the flexibility of not always being immediately available for response.&#xA;That said you will very likely find me online between the following hours.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
