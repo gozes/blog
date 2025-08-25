@@ -1,5 +1,5 @@
 +++
-date = '2025-08-25T12:01:33+01:00'
+date = '2025-08-25'
 draft = false
 title = 'Debugging Services by Isolating Them With Systemd'
 +++
