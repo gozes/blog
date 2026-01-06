@@ -71,11 +71,6 @@ In all these cases, I actively work to manage them, but sometimes you may need t
 
 
 ## I work best when ...
-- I can work remotely. I find office environments quiet distracting and
-sometimes they may also trigger sensory overloads. That said, I also see value
-in getting together as team from time to time so I'm happy to stop by the
-office every ones in a while or for company events. I have found that about ones
-a month works well for me.
 
 - I can get my headphones on, mute notifications and get down to the task at hand
 
