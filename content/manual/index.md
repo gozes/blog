@@ -77,16 +77,6 @@ in getting together as team from time to time so I'm happy to stop by the
 office every ones in a while or for company events. I have found that about ones
 a month works well for me.
 
-- I can use Linux on as my work environment on my work machine. Over the years I
-  have build a computing environment on top of Linux, mostly Arch, that works
-with my brain and not against it and that allows me molded to my needed and the
-needs of my brain as the tech landscape changes which I find makes me more
-productive then using other systems. I will often request Linux as **reasonable
-accommodation** (I will probably write a post on this at some point to expand on
-this point). That said I do understand that some place are not well setup to
-run Linux so if all you support is a Mac I'll probably just run Linux in VM and
-work from within the VM.
-
 - I can get my headphones on, mute notifications and get down to the task at hand
 
 - I can build for the "right solution", with the right level of test coverage and a good architecture. However, I do realise the value in pragmatism, and am happy to cut corners where necessary, as part of a healthy technical debt conversation
