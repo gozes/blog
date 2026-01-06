@@ -67,6 +67,10 @@ work with it, but that does mean there's a few areas for you to be aware of.
 - **Sensory issues**: I do get sensory overload at times, especially with some
 high pitch noises and some high pitch voices
 
+- **On the spot answers**: I'm naturally a fast talker and this can easily 2x if
+  answering a question on the spot on a call. - if something I says in not clear
+  do let me know. 
+
 In all these cases, I actively work to manage them, but sometimes you may need to give me a nudge if you're noticing one of the behaviours.
 
 
