@@ -67,12 +67,19 @@ work with it, but that does mean there's a few areas for you to be aware of.
 - **Sensory issues**: I do get sensory overload at times, especially with some
 high pitch noises and some high pitch voices
 
-- **On the spot answers**: I'm naturally a fast talker and this can easily 2x if
-  answering a question on the spot on a call. - if something I says in not clear
-  do let me know. 
+- **On the spot answers**: I'm naturally a fast talker and this can easily go to  2x speed 
+    if answering a question on the spot on a call. The answer I will give in dose
+    cases will often be poorly Structure because I haven't had a chance to processes
+    the question and come up with a well Structure answer.
+    If something I says in not clear do let me know. 
 
 In all these cases, I actively work to manage them, but sometimes you may need to give me a nudge if you're noticing one of the behaviours.
 
+## I learn best from ...
+- clear written material or docs
+- if its a complex subject or an area on a system I haven't worked on having an
+  some kind of outline of how that system works and/or a chat with someone that
+  can show me around is quiet helpful
 
 ## I work best when ...
 
